@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+}
+.container{
+    width:400px;
+    border:3px solid black;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+header{
+    border-bottom: 1px solid #C6C6C6;
+}
+.sophie{
+    border-radius: 50%;
+    float:right;
+    padding: 7px 4px;
+}
+.ola{
+    border-radius: 50%;
+    padding: 7px 4px;
+    float: left;
+}
+.logo{
+    padding: 7px 4px;
+}
+.section-text-1{
+    margin-bottom: 0px;
+}
+.section-1{
+  display: flex;  
+}
+.section-text{
+    padding-left: 8px;
+}
+.bold{
+    font-weight: bold;
+}
+.icon{
+   padding-top: 7px;
+}
+.likes{
+    margin-bottom: 2px;
+}
+.caption{
+    margin-top: 0px;
+}
+.section-bottom{
+    padding-left: 5px;
+}
